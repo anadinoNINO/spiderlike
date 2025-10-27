@@ -1,0 +1,25 @@
+{
+    "name": "Alexis Smith",
+    "age": 78,
+    "address": {
+        "street": "Marsh Spring",
+        "city": "Juliefurt",
+        "state": "Colorado",
+        "zip": "72601"
+    },
+    "contact": {
+        "phone": "477-674-7632",
+        "servicePhone": "800581088"
+    },
+    "birthday": "1947-28-07",
+    "ip": "167.238.127.109",
+    "foo": "bar",
+    "profile": {
+        "about": "Later grow off resource none art certain subject. Yard provide wonder value. Teacher scene wear might despite clearly.",
+        "bio": "Technology chair figure success heavy dark game. Activity performance adult join."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}
