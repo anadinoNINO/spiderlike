@@ -1,0 +1,25 @@
+{
+    "name": "Brandy Harmon",
+    "age": 11,
+    "address": {
+        "street": "Thompson Ridges",
+        "city": "Haynesmouth",
+        "state": "West Virginia",
+        "zip": "05660"
+    },
+    "contact": {
+        "phone": "390-690-1610",
+        "servicePhone": "800333613"
+    },
+    "birthday": "2014-21-07",
+    "ip": "172.37.83.244",
+    "foo": "bar",
+    "profile": {
+        "about": "Lay well center after star then. Network develop travel effort check successful.\nOr stand office method. Sort officer high owner.",
+        "bio": "Describe policy section resource choose. Mr effect lay huge write time. Physical former challenge."
+    },
+    "currency": [
+        "SRD",
+        "Surinamese dollar"
+    ]
+}
