@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Avila",
+    "age": 28,
+    "address": {
+        "street": "Smith Glens",
+        "city": "Jeffreytown",
+        "state": "New York",
+        "zip": "88880"
+    },
+    "contact": {
+        "phone": "306-566-0394x9929",
+        "servicePhone": "800766832"
+    },
+    "birthday": "1997-17-07",
+    "ip": "83.245.232.108",
+    "foo": "bar",
+    "profile": {
+        "about": "Summer include rule together system material. Appear for choice law ask than. Job step spring left beautiful have. Glass fall community newspaper small become.",
+        "bio": "Voice wrong here vote paper hand move. Foot figure red affect speech community mouth.\nWe read affect short quite education."
+    },
+    "currency": [
+        "XCD",
+        "Eastern Caribbean dollar"
+    ]
+}
