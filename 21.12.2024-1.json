@@ -1,0 +1,25 @@
+{
+    "name": "Kristen Smith",
+    "age": 13,
+    "address": {
+        "street": "Matthew Way",
+        "city": "Lake Brian",
+        "state": "Arkansas",
+        "zip": "62108"
+    },
+    "contact": {
+        "phone": "519.898.4326x74588",
+        "servicePhone": "800329617"
+    },
+    "birthday": "2012-18-08",
+    "ip": "97.38.239.228",
+    "foo": "bar",
+    "profile": {
+        "about": "Man reflect decision let customer speech word west. Service thought friend long newspaper part story ahead. Surface tell chance. Feeling media scene growth parent morning east.",
+        "bio": "Full own after little method beyond tend may. Father million all away might. Second professional foreign seven leg hot crime difference."
+    },
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}
