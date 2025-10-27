@@ -1,0 +1,25 @@
+{
+    "name": "Lauren Cruz",
+    "age": 15,
+    "address": {
+        "street": "Mcintyre Hills",
+        "city": "Lynntown",
+        "state": "Massachusetts",
+        "zip": "39267"
+    },
+    "contact": {
+        "phone": "982-385-1560",
+        "servicePhone": "800815037"
+    },
+    "birthday": "2010-04-08",
+    "ip": "176.167.135.18",
+    "foo": "bar",
+    "profile": {
+        "about": "Single meeting out ground money myself effort account. Car everybody identify authority so. Else American join but story poor service air.\nSecond radio most. Conference stop occur attack.",
+        "bio": "Least majority phone box here worry next area. Exactly prepare kitchen have.\nTough claim forget worker. Become enjoy put term agency happen. Design want size majority authority with."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
