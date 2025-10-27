@@ -1,0 +1,25 @@
+{
+    "name": "Danielle Mills",
+    "age": 72,
+    "address": {
+        "street": "Jeffrey Place",
+        "city": "Howardland",
+        "state": "New Hampshire",
+        "zip": "45254"
+    },
+    "contact": {
+        "phone": "8205175824",
+        "servicePhone": "800134907"
+    },
+    "birthday": "1953-21-02",
+    "ip": "130.134.94.191",
+    "foo": "bar",
+    "profile": {
+        "about": "Current light responsibility lot ability.\nAll skill amount soon wrong before. Important perhaps painting relate even detail need.",
+        "bio": "Coach term education garden baby. Identify across song rest husband present wife. Different building must buy."
+    },
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}
