@@ -1,0 +1,25 @@
+{
+    "name": "Jason Vasquez",
+    "age": 40,
+    "address": {
+        "street": "Bradley Passage",
+        "city": "Hoffmanmouth",
+        "state": "South Dakota",
+        "zip": "42798"
+    },
+    "contact": {
+        "phone": "+1-305-562-9981x190",
+        "servicePhone": "800440190"
+    },
+    "birthday": "1985-12-03",
+    "ip": "13.20.120.7",
+    "foo": "bar",
+    "profile": {
+        "about": "His PM across imagine. Western can room important conference.\nSmile member together condition option will. Loss difficult summer consider medical. Center win rate professor Mr medical.",
+        "bio": "Find onto will training garden. But make brother especially material base care feeling. Might end tell concern career."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
