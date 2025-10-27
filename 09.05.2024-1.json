@@ -1,0 +1,25 @@
+{
+    "name": "Martha Thornton",
+    "age": 64,
+    "address": {
+        "street": "Samantha Gateway",
+        "city": "Port Holly",
+        "state": "California",
+        "zip": "18813"
+    },
+    "contact": {
+        "phone": "821-612-3229x68686",
+        "servicePhone": "800317304"
+    },
+    "birthday": "1961-06-01",
+    "ip": "100.145.215.148",
+    "foo": "bar",
+    "profile": {
+        "about": "Explain fast mean although agent whom. It investment seat system. Appear police successful between doctor every. Lead perhaps soon admit near security.",
+        "bio": "So successful a enter section buy dream. We feeling how son because campaign recognize. Wrong pull forward tough."
+    },
+    "currency": [
+        "TMT",
+        "Turkmenistan manat"
+    ]
+}
