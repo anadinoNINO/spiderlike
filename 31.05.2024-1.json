@@ -1,0 +1,25 @@
+{
+    "name": "Maureen Lopez",
+    "age": 112,
+    "address": {
+        "street": "White Road",
+        "city": "Gilbertborough",
+        "state": "Connecticut",
+        "zip": "58562"
+    },
+    "contact": {
+        "phone": "(768)798-2792",
+        "servicePhone": "800141624"
+    },
+    "birthday": "1913-03-12",
+    "ip": "39.48.132.238",
+    "foo": "bar",
+    "profile": {
+        "about": "Week set door point response. Picture ball difference lot.\nAuthority imagine detail each ten. Form significant store instead artist series agree.",
+        "bio": "Itself thing travel safe. Miss simply national meet together. Wish determine practice song remain ground."
+    },
+    "currency": [
+        "PKR",
+        "Pakistani rupee"
+    ]
+}
