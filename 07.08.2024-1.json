@@ -1,0 +1,25 @@
+{
+    "name": "Michael Dickerson III",
+    "age": 100,
+    "address": {
+        "street": "Waters Route",
+        "city": "North Andrew",
+        "state": "Arizona",
+        "zip": "29428"
+    },
+    "contact": {
+        "phone": "+1-304-846-3406x06605",
+        "servicePhone": "800621106"
+    },
+    "birthday": "1925-23-12",
+    "ip": "215.200.96.189",
+    "foo": "bar",
+    "profile": {
+        "about": "Determine never push former far fast. Base result church campaign plant.\nCouple set home money once end. Above social claim finish carry energy. Next computer really high resource design.",
+        "bio": "Call include standard region very.\nOrder bill avoid. Public deal laugh himself herself be."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
