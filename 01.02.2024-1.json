@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Bentley",
+    "age": 4,
+    "address": {
+        "street": "Butler Stream",
+        "city": "New Samanthafort",
+        "state": "Kansas",
+        "zip": "30766"
+    },
+    "contact": {
+        "phone": "7058279629",
+        "servicePhone": "800540748"
+    },
+    "birthday": "2021-02-06",
+    "ip": "167.159.84.41",
+    "foo": "bar",
+    "profile": {
+        "about": "Land left fine plan concern indeed. Recognize whatever political present note listen until start. Likely turn provide wall occur hot heart.",
+        "bio": "Range like her step drive benefit allow. Thank worker way term everything fund scene.\nUs firm approach keep stand.\nCurrent player approach threat edge large enough. Success way board gun film expert."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
