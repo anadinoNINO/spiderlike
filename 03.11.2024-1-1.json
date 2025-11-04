@@ -1,0 +1,25 @@
+{
+    "name": "Grace Holland",
+    "age": 55,
+    "address": {
+        "street": "Schneider Falls",
+        "city": "Braunfurt",
+        "state": "Arkansas",
+        "zip": "76350"
+    },
+    "contact": {
+        "phone": "001-404-302-9657x282",
+        "servicePhone": "800086347"
+    },
+    "birthday": "1970-09-10",
+    "ip": "87.14.180.30",
+    "foo": "bar",
+    "profile": {
+        "about": "Local college test approach. Course item pick produce better. Apply suddenly plan father. Research mother there young product.\nFloor court network field. Child heavy floor small think.",
+        "bio": "Put much mention series notice among. Benefit understand chair traditional rock seven environment Democrat. Follow available tax expert mind game."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
