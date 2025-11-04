@@ -1,0 +1,25 @@
+{
+    "name": "Rhonda Harris",
+    "age": 107,
+    "address": {
+        "street": "Hinton Trace",
+        "city": "Tracyton",
+        "state": "New Hampshire",
+        "zip": "18965"
+    },
+    "contact": {
+        "phone": "553-902-4252x62607",
+        "servicePhone": "800150666"
+    },
+    "birthday": "1918-18-09",
+    "ip": "221.144.235.206",
+    "foo": "bar",
+    "profile": {
+        "about": "Hospital east yes drop such develop eat identify. Nearly long never energy service reason baby lead.\nToday follow here couple down girl Mr language. Hot cut board away customer something media.",
+        "bio": "Worker data include. Project radio hair fast and range party. Become defense case visit growth goal article."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
